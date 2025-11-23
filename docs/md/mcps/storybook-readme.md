@@ -6,8 +6,8 @@ Welcome to the [Storybook](https://github.com/storybookjs) MCP Addon monorepo! T
 
 This monorepo contains two main packages:
 
-- **[@storybook/mcp](./packages/mcp)** - Standalone MCP library for serving Storybook component knowledge (can be used independently)
-- **[@storybook/addon-mcp](./packages/addon-mcp)** - Storybook addon that runs an MCP server within your Storybook dev server, and includes the functionality of **[@storybook/mcp](./packages/mcp)** from your local Storybook
+- **[@storybook/mcp](https://github.com/storybookjs/packages/mcp)** - Standalone MCP library for serving Storybook component knowledge (can be used independently)
+- **[@storybook/addon-mcp](https://github.com/storybookjs/packages/addon-mcp)** - Storybook addon that runs an MCP server within your Storybook dev server, and includes the functionality of **[@storybook/mcp](https://github.com/storybookjs/packages/mcp)** from your local Storybook
 
 Each package has its own README with user-facing documentation. This document is for **contributors** looking to develop, test, or contribute to these packages.
 
@@ -237,7 +237,7 @@ We welcome contributions! Here's how to get started:
 
 ## 📄 License
 
-MIT - See [LICENSE](./LICENSE) for details
+MIT - See [LICENSE](https://github.com/storybookjs/LICENSE) for details
 
 ---
 
